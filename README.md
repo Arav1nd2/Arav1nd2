@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aravind, working as full stack engineer @ PayPal
 - 👀 I’m interested in Web technologies, Software security
-- 🌱 I’m currently learning Nest.JS, websockets and desiging online multiplayer games..
+- 🌱 I’m currently learning Nest.JS, websockets and building online multiplayer game.
 - 📫 You can reach out to me @ prodprint2k19@gmail.com
 
 <!---
